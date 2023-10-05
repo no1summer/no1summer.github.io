@@ -1,15 +1,27 @@
 ---
 title: "In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: [/publication/2023-In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography-Optica](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.499927)
+excerpt: 'This paper is about the imaging cilia metachronal wave with optical coherence tomography.'
 date: 2023-10
 venue: 'Optica'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://no1summer.github.io/files/OpticaAcceptedManuscript.pdf'
+citation: 'Tian Xia, You. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography 1.&quot; <i>Optica 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Motile cilia are dynamic hair-like structures that cover epithelial surfaces in multiple
+organs. The periodic coordinated beating of cilia creates waves propagating along the surface,
+called the metachronal waves, which transport fluids and mucus along the epithelium. Motile
+ciliopathies arise due to disrupted coordinated cilia beating and are associated with serious
+clinical complications including reproductive disorders. Despite the recognized clinical
+significance, investigations of cilia dynamics are extremely limited. Here, we present the first
+quantitative imaging of cilia metachronal wave volumetrically through tissue layers with
+dynamic optical coherence tomography. Our method relies on spatiotemporal mapping of the
+phase of intensity fluctuations in OCT images due to the ciliary beating. We validated our new
+method ex vivo and implemented it in vivo to visualize cilia metachronal wave propagation
+within the mouse fallopian tube. This new method can be extended to the assessment of
+physiological cilia function and ciliary dyskinesias in various organ systems, contributing to
+better management of pathologies associated with motile ciliopathies.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://no1summer.github.io/files/OpticaAcceptedManuscript.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tian Xia, You. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography 1.&quot; <i>Optica 1</i>. 1(1).
