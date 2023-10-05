@@ -11,18 +11,22 @@ You can find my CV here: [Tian Xia's Curriculum Vitae](../assets/Curriculum_Vita
 
 Education
 ======
+* Ph.D in Quantitative & Computational Biosciences, Baylor College of Medicine, 2024 (expected)
 * B.S. in Pharmaceutical Sciences, Zhejiang University, 2019
-* Ph.D in Version Control Theory, GitHub University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* 2019 - Current: Graduate Student
+  * Baylor College of Medicine
+  * Developed imaging analysis procedure for investigating dynamic phenomenon within mouse reproductive organs
+  * Supervisor: Professor Irina Larina
+  
+* 2018 - 2019: Visiting Student
+  * Rice University
+  * Duties included: Merging pull requests
+  
+* 2018 - 2019: Research Assistant
+  * Massachusetts Institute of Technology
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -45,12 +49,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
