@@ -1,7 +1,7 @@
 ---
 title: "In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography"
 collection: publications
-permalink: [/publication/2023-In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography-Optica.md](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.499927)
+permalink: https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.499927
 excerpt: 'This paper is about the imaging cilia metachronal wave with optical coherence tomography.'
 date: 2023-10
 venue: 'Optica'
