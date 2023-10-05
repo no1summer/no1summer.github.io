@@ -1,12 +1,12 @@
 ---
 title: "In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography"
 collection: publications
-permalink: [/publication/2023-In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography-Optica](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.499927)
+permalink: [/publication/2023-In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography-Optica.md](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.499927)
 excerpt: 'This paper is about the imaging cilia metachronal wave with optical coherence tomography.'
 date: 2023-10
 venue: 'Optica'
 paperurl: 'http://no1summer.github.io/files/OpticaAcceptedManuscript.pdf'
-citation: 'Tian Xia, You. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography 1.&quot; <i>Optica 1</i>. 1(1).'
+citation: 'Tian Xia, Kohei Umezu, Deirdre Scully, Shang Wang, and Irina Larina. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography.&quot; <i>Optica </i>. https://doi.org/10.1364/OPTICA.499927.'
 ---
 Motile cilia are dynamic hair-like structures that cover epithelial surfaces in multiple
 organs. The periodic coordinated beating of cilia creates waves propagating along the surface,
@@ -24,4 +24,4 @@ better management of pathologies associated with motile ciliopathies.
 
 [Download paper here](http://no1summer.github.io/files/OpticaAcceptedManuscript.pdf)
 
-Recommended citation: Tian Xia, You. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography 1.&quot; <i>Optica 1</i>. 1(1).
+Recommended citation: Tian Xia, Kohei Umezu, Deirdre Scully, Shang Wang, and Irina Larina. (2023). &quot;In vivo volumetric depth-resolved imaging of cilia metachronal wave with dynamic optical coherence tomography.&quot; <i>Optica </i>. https://doi.org/10.1364/OPTICA.499927.
