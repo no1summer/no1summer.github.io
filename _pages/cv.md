@@ -7,13 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find my CV here: [Tian Xia's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Pharmaceutical Sciences, Zhejiang University, 2019
+* Ph.D in Version Control Theory, GitHub University, 2024 (expected)
 
 Work experience
 ======
