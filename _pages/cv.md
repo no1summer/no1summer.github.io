@@ -46,12 +46,15 @@ Work experience
 Skills
 ======
 * Programming: Python, R, MATLAB, C, Bash, SQL, Git, LaTex
+  
 * Data Science:
   * Data Structure: Pandas(Python), Anndata(Python), dplyr(R)
   * Visualization: Matplotlib (Python), Seaborn(Python), ggplot2 (R)
   * Machine Learning: scikit-learn, PyTorch
+    
 * Research: Data Science, Machine Learning, Deep Learning, Imaging Processing and Analysis, Computational
 Biology
+
 * Soft skills: Creativity, Critical Thinking, Communication
 
 Publications
@@ -62,10 +65,13 @@ Publications
   
 Achievements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2023 Travel Award for Invited Talk SPIE Photonic West 2023, San Francisco
+* 2022 Second Place for Poster Presentation Texas Forum of Reproductive Sciences 2022, Houston
+* 2018 First-Class Scholarship for Outstanding Students (Top 1%) Zhejiang University
+* 2018 The President’s Scholarship Zhejiang University
+* 2018 Championship of Men’s Singles Tennis Competition, Zhejiang University
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023-present Invited Reviewer - JOSA A - Journal of the Optical Society of America A
+* 2022-present Co-founder and Photographer - CATS OF HOUSTON - Stray Cat Adoption Platform
