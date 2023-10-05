@@ -18,26 +18,41 @@ Work experience
 ======
 * 2019 - Current: Graduate Student
   * Baylor College of Medicine
-  * Developed imaging analysis procedure for investigating dynamic phenomenon within mouse reproductive organs
+  * Multiple projects involving develop imaging analysis procedure for investigation of dynamic phenomenon within mouse reproductive organs (Published at Optica, Biomedical Optics Express, in preparation for Nature)
   * Supervisor: Professor Irina Larina
   
-* 2018 - 2019: Visiting Student
+* 2020 - 2023: Inter-institutional Student
   * Rice University
-  * Duties included: Merging pull requests
+  * Constructed a machine learning pipeline to identify genomic signatures in age-related macular degeneration. Reduced the  number of feature from >18000 to <100 using feature selection techniques.
+  * Created a classification network (customized Resnet50 with Ensemble strategy) to distinguish finegrained food images.
+  * Construct a generalized linear model to identify individuals with the high risk of stroke with more than 90% accuracy
   
 * 2018 - 2019: Research Assistant
   * Massachusetts Institute of Technology
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Help build a genetically defined syngeneic mouse model of ovarian cancer (Published at Cancer Discovery)
+  * Supervisor: Professor Robert Weinberg
+ 
+* 2018 - 2018: Research Assistant
+  * Princeton University
+  * Study the phenotype of mir200 knockout in the mouse model by immunohistochemistry (IHC) imaging
+  * Supervisor: Professor Yibin Kang
+    
+* 2017 - 2018: Research Assistant
+  * Zhejiang University
+  * Study the IL-6, p-stat3, Fra-1, Nanog pathway in the progression and metastasis of colon cancer by immunofluorescence (IF) imaging (Published at Oncogene)
+  * Supervisor: Professor Jimin Shao
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, R, MATLAB, C, Bash, SQL, Git, LaTex
+* Data Science:
+  * Data Structure: Pandas(Python), Anndata(Python), dplyr(R)
+  * Visualization: Matplotlib (Python), Seaborn(Python), ggplot2 (R)
+  * Machine Learning: scikit-learn, PyTorch
+* Research: Data Science, Machine Learning, Deep Learning, Imaging Processing and Analysis, Computational
+Biology
+* Soft skills: Creativity, Critical Thinking, Communication
 
 Publications
 ======
@@ -45,7 +60,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Achievements
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
