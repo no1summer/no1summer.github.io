@@ -16,6 +16,15 @@ Education
 
 Work experience
 ======
+* 2024 - 2024: Intern/Co-op
+  * Merck
+  * Fine tuning self-supervised transformer-based deep learning image feature extraction method DINOv2 for classifying cells with different treatment
+  * Classify RNA-seq data of patients’ for different locations with machine learning
+  * Developed a machine learning pipeline for determining the suitable marker for Optical Pooled CRISPR Screening (OPS)
+  * Established a CellProfiler and Cellpose (deep learning) pipeline to segment and quantify the cell images, which is integrated with Nextflow and deployed to High Performance Clustering (HPC).
+  * Experience with processing scRNA-seq data from fastq file
+  * Build and train GPT2 from scratch and generate Shakespeare-like dialogue
+ 
 * 2019 - Current: Graduate Student
   * Baylor College of Medicine
   * Multiple projects involving develop imaging analysis procedure for investigation of dynamic phenomenon within mouse reproductive organs (Published at Optica, Biomedical Optics Express, in preparation for Nature)
