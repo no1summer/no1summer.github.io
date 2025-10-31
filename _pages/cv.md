@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV here: [Tian Xia's Curriculum Vitae](../assets/cv_tx_full_resume110124.pdf).
+You can find my CV here: [Tian Xia's Curriculum Vitae](../assets/cv_tx_full_resume_ml_short100825.pdf).
 
 Education
 ======
