@@ -11,11 +11,22 @@ You can find my CV here: [Tian Xia's Curriculum Vitae](../assets/cv_tx_full_resu
 
 Education
 ======
-* Ph.D in Quantitative & Computational Biosciences, Baylor College of Medicine, 2024 (expected)
+* Ph.D in Quantitative & Computational Biosciences, Baylor College of Medicine, 2024
 * B.S. in Pharmaceutical Sciences, Zhejiang University, 2019
 
 Work experience
 ======
+* 2025 - Current: Postdoc
+  * UTHealth Houston
+  * Benchmarked a spectrum of unsupervised autoencoder-based image feature extraction methods with different encoder and decoder — including CNN, ViT, Swin Tranformer, MAE, VAE — to identify novel genes associated with brain structure (accepted by the NeurIPS 2025 Imageomics Workshop)
+  * Developed a pipeline leveraging contrastive learning Mocov2 and cross-attention to learn mutual imaging features from multimodal T1/T2 MRI
+  * Building a CLIP based foundation Vision-Language Model (VLM) for heart/brain images and genes
+
+* 2024 - 2025: Modeling Scientist
+  * Juul labs
+  * Developed agent-based models in MATLAB for simulating the impact of introducing e-cigarettes on populations’ health with machine-learning derived inputs
+  *Optimized the models for deploying on Google Cloud GPU Clusters
+
 * 2024 - 2024: Intern/Co-op
   * Merck
   * Fine tuning self-supervised transformer-based deep learning image feature extraction method DINOv2 for classifying cells with different treatment
@@ -25,7 +36,7 @@ Work experience
   * Experience with processing scRNA-seq data from fastq file
   * Build and train GPT2 from scratch and generate Shakespeare-like dialogue
  
-* 2019 - Current: Graduate Student
+* 2019 - 2024: Graduate Student
   * Baylor College of Medicine
   * Multiple projects involving develop imaging analysis procedure for investigation of dynamic phenomenon within mouse reproductive organs (Published at Optica, Biomedical Optics Express, in preparation for Nature)
   * Supervisor: Professor Irina Larina
