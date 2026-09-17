@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2025 - Current: Postdoc
-  * UTHealth Houston
+  * Yale Univeristy (Prev UTHealth Houston)
   * Benchmarked a spectrum of unsupervised autoencoder-based image feature extraction methods with different encoder and decoder — including CNN, ViT, Swin Tranformer, MAE, VAE — to identify novel genes associated with brain structure (accepted by the NeurIPS 2025 Imageomics Workshop)
   * Developed a pipeline leveraging contrastive learning Mocov2 and cross-attention to learn mutual imaging features from multimodal T1/T2 MRI
   * Building a CLIP based foundation Vision-Language Model (VLM) for heart/brain images and genes
