@@ -22,11 +22,6 @@ Work experience
   * Developed a pipeline leveraging contrastive learning Mocov2 and cross-attention to learn mutual imaging features from multimodal T1/T2 MRI
   * Building a CLIP based foundation Vision-Language Model (VLM) for heart/brain images and genes
 
-* 2024 - 2025: Modeling Scientist
-  * Juul labs
-  * Developed agent-based models in MATLAB for simulating the impact of introducing e-cigarettes on populations’ health with machine-learning derived inputs
-  *Optimized the models for deploying on Google Cloud GPU Clusters
-
 * 2024 - 2024: Intern/Co-op
   * Merck
   * Fine tuning self-supervised transformer-based deep learning image feature extraction method DINOv2 for classifying cells with different treatment
